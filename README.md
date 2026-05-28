@@ -1,6 +1,6 @@
 # oreo
 <p align="center">
-  <img src="https://oreologo.png" alt="oreo Addon Banner" width="300"/>
+  <img src="file:///C:/Users/Nopozz/Downloads/icon.png.png"alt="oreo Addon Banner" width="300"/>
 </p>
 
 ## 🍩DonutSMP Meteor Client Addon
