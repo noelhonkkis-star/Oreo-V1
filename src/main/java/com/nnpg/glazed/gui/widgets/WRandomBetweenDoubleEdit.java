@@ -1,4 +1,4 @@
-package com.nnpg.glazed.gui.widgets;
+package com.nnpg.oreo.gui.widgets;
 
 import meteordevelopment.meteorclient.gui.GuiTheme;
 import meteordevelopment.meteorclient.gui.widgets.containers.WHorizontalList;
