@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://oreologo.png" alt="oreo Addon Banner" width="300"/>
 </p>
----
 
 ## 🍩DonutSMP Meteor Client Addon
 
